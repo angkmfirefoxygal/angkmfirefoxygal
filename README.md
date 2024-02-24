@@ -7,3 +7,5 @@ This is the special repository to introduce myself.<br>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angkmfirefoxygal&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=angkmfirefoxygal&show_icons=true">
