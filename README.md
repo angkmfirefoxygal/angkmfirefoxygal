@@ -1,6 +1,10 @@
 # angkmfirefoxygal
 This is the special repository to introduce myself.<br>
 <strong>Currently Studying</strong><br>
+
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MoonWon%20Github!&fontSize=90" />	
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
