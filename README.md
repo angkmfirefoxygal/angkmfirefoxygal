@@ -20,8 +20,11 @@
 	<p>🛠 Tools 🛠</p>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angkmfirefoxygal&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=angkmfirefoxygal&show_icons=true">
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angkmfirefoxygal&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=angkmfirefoxygal&show_icons=true">
+</div>
+
 
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
