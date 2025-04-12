@@ -16,10 +16,6 @@
 </div>
 <br>
 
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-
 
 
 <div align=center>
